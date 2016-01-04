@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ylliac",
-    "repositoryName": "ylliac.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ylliac","repositoryName":"ylliac.github.io","branch":"master"},"site":{"title":"Why not ?","url":"https://ylliac.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//ylliac.github.io/themes/Casper"}}
